@@ -2,12 +2,6 @@ ysdzmc
 zgm
 zwt
 lyy
-<<<<<<< HEAD
-<<<<<<< HEAD
+ 
 ysdlyy
-=======
-ysdzgm
->>>>>>> fenzhi1
-=======
-ysdlyy
->>>>>>> fenzhi1
+ 
